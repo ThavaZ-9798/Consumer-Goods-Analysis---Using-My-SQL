@@ -8,8 +8,8 @@
 # 💰 Cost Reduction Insights – Identified inefficiencies in operational workflows, leading to a potential 10% reduction in overall business costs through data-backed recommendations.
 # 📈 Business Impact – Translated raw data into meaningful insights to improve workflow efficiency, optimize resource utilization, and enhance decision-making processes.
 
-# 🛠 Technologies & Tools Used:
-# ✅ MySQL – Data extraction, transformation, and analysis
-# ✅ SQL Window Functions – Advanced ranking and partitioning techniques
-# ✅ Joins & Subqueries – Optimized data merging and relationship handling
-# ✅ CTEs & Indexing – Improved query readability and performance
+## 🛠 Technologies & Tools Used:
+- ✅ MySQL – Data extraction, transformation, and analysis
+- ✅ SQL Window Functions – Advanced ranking and partitioning techniques
+- ✅ Joins & Subqueries – Optimized data merging and relationship handling
+- ✅ CTEs & Indexing – Improved query readability and performance
